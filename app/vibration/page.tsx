@@ -64,7 +64,7 @@ export default function VibrationPage() {
         <CardHeader>
           <CardTitle>Vibration Not Supported</CardTitle>
           <CardDescription>
-            Your device does not support the Vibration API.
+            Your device does not support the Vibration APIs.
           </CardDescription>
         </CardHeader>
       </Card>
